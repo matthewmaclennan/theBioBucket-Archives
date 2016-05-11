@@ -1,5 +1,5 @@
 # download pdftotxt from 
-# ftp://ftp.foolabs.com/pub/xpdf/xpdfbin-win-3.03.zip
+# ftp://ftp.foolabs.com/pub/xpdf/xpdfbin-win-3.04.zip
 # and extract to your program files folder
 
 # here is a pdf for mining
